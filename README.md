@@ -20,7 +20,7 @@ Enable Google Chrome Smooth Scrolling:
 3. Click Enable
 4. Restart Chrome browser
 
-Enable firefox Smooth Scrolling:
+Enable Firefox Smooth Scrolling:
 
 1. Click Tools, Options.
 2. Click the Advanced icon, then look in the Browsing section.
