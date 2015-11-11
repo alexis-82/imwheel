@@ -13,7 +13,7 @@ $ sh imwheel.sh
 ```
 
 
-Enable Google Chrome Smooth Scrolling:
+++Enable Google Chrome Smooth Scrolling:++
 
 1. Open a new tab and enter address chrome://flags/
 2. Find Smooth Scrolling flag.
