@@ -16,6 +16,8 @@ Step 3
 
 Autostart in your system: ``` imwheel & exit ```
 
+
+
 Enable Google Chrome Smooth Scrolling:
 
 1. Open a new tab and enter address chrome://flags/
