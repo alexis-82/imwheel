@@ -12,6 +12,8 @@ Step 2
 $ sh imwheel.sh
 ```
 
+Step 3
+Autostart in your system: ``` imwheel & exit ```
 
 Enable Google Chrome Smooth Scrolling:
 
